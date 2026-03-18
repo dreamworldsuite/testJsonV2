@@ -1,8 +1,8 @@
 # testJsonV2
 
-Folder &nbsp; -> testV2-1                   </br>
-                                     </br>
-test80  -> buildingsV2Test1.json     </br>
+Folder:  
+
+testV2-1 -> buildingsV2Test1.json   </br>
 
 
 Tags:
