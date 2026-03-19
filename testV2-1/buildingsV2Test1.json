@@ -1,0 +1,1653 @@
+{
+  "_metaDatiJson": {
+    "nomeJson": "buildingsV2Test1",
+    "repoJson": "testJsonV2",
+    "note": "Test Versione 2"
+  },
+  "version": 2,
+  "minAppVersion": 2,
+  "generatedAt": "2026-03-18T12:00:00Z",
+  "terrain":{
+    "layer":{
+      "id": "TL_Grass",
+      "source": "local"
+    }
+  },
+  "edifici": 
+  [
+    {
+      "id": "casale",
+      "address": "TorreA",
+      "label": "Casale",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 140, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/casaleNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 128, "y": 0.0, "z": 254 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "chivasso",
+      "address": "TorreD",
+      "label": "Chivasso",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 170, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/chivassoNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": -744.2, "y": 0.0, "z": 370.5 },
+        "rotation": { "x": 0, "y": 90, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "moncalvo",
+      "address": "TorreA",
+      "label": "Moncalvo",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 170, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/moncalvoNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": -151.7, "y": 0.0, "z": 64.5 },
+        "rotation": { "x": 0, "y": 270, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "pontestura",
+      "address": "TorreA",
+      "label": "Pontestura",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 190, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/pontesturaNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": -48.1, "y": 0.0, "z": 270.3 },
+        "rotation": { "x": 0, "y": 180, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "acqui",
+      "address": "TorreA",
+      "label": "Acqui",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 130, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/acquiNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 174.2, "y": 0.0, "z": -776.4 },
+        "rotation": { "x": 0, "y": 20, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "alfiano_natta",
+      "address": "TorreA",
+      "label": "Alfiano",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 140, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/alfianoNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": -246.9, "y": 0.0, "z": 58.3 },
+        "rotation": { "x": 0, "y": 270, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "altavilla_monferrato",
+      "address": "TorreA",
+      "label": "Altavilla",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 150, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/altavillaNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 16.1, "y": 0.0, "z": -65.6 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "balzola",
+      "address": "TorreA",
+      "label": "Balzola",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 150, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/balzolaNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 53.4, "y": 0.0, "z": 360 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "bassignana",
+      "address": "TorreA",
+      "label": "Bassignana",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 200, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/bassignanaNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 579, "y": 0.0, "z": -44.9 },
+        "rotation": { "x": 0, "y": 180, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "borgo_san_martino",
+      "address": "TorreA",
+      "label": "Borgo San Martino",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 290, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/borgoSMNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 248.8, "y": 0.0, "z": 145.3 },
+        "rotation": { "x": 0, "y": 160, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "bozzole",
+      "address": "TorreA",
+      "label": "Bozzole",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 150, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/bozzoleNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 366, "y": 0.0, "z": 101.6 },
+        "rotation": { "x": 0, "y": 250, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "calliano",
+      "address": "TorreA",
+      "label": "Calliano",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 160, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/callianoNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": -169.6, "y": 0.0, "z": -34.2 },
+        "rotation": { "x": 0, "y": 120, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "camagna_monferrato",
+      "address": "TorreA",
+      "label": "Camagna",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 170, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/camagnaNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 102.3, "y": 0.0, "z": -11.1 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "camino",
+      "address": "TorreA",
+      "label": "Camino",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 150, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/caminoNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": -131.8, "y": 0.0, "z": 308.3 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "casorzo",
+      "address": "TorreA",
+      "label": "Casorzo",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 155, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/casorzoNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": -48.2, "y": 0.0, "z": 0.2 },
+        "rotation": { "x": 0, "y": 70, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "castagnole",
+      "address": "TorreA",
+      "label": "Castagnole",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 195, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/castagnoleNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": -86.1, "y": 0.0, "z": -140.4 },
+        "rotation": { "x": 0, "y": 45, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "castelletto_merli",
+      "address": "TorreA",
+      "label": "Castelletto de' Merli",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 305, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/castellettoMerliNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": -209.5, "y": 0.0, "z": 144.6 },
+        "rotation": { "x": 0, "y": 30, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "castelletto_monferrato",
+      "address": "TorreA",
+      "label": "Castelletto",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 190, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/castellettoMonfNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 311.3, "y": 0.0, "z": -95.3 },
+        "rotation": { "x": 0, "y": 140, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "castello_di_annone",
+      "address": "TorreA",
+      "label": "Castel d'Annone",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 260, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/castelAnnoneNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": -77.8, "y": 0.0, "z": -320.6 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "cella_monte",
+      "address": "TorreA",
+      "label": "Cella",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 120, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/cellaMonteNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 41.4, "y": 0.0, "z": 113.3 },
+        "rotation": { "x": 0, "y": 160, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "cereseto",
+      "address": "TorreA",
+      "label": "Cereseto",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 170, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/ceresetoNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": -74.3, "y": 0.0, "z": 142.1 },
+        "rotation": { "x": 0, "y": 10, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "cerrina",
+      "address": "TorreA",
+      "label": "Cerrina",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 150, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/cerrinaNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": -235.3, "y": 0.0, "z": 216.5 },
+        "rotation": { "x": 0, "y": 140, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "cerro_tanaro",
+      "address": "TorreA",
+      "label": "Cerro",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 130, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/cerroTanaroNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": -1.4, "y": 0.0, "z": -340.8 },
+        "rotation": { "x": 0, "y": 65, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "coniolo",
+      "address": "TorreA",
+      "label": "Coniolo",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 150, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/conioloNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 8, "y": 0.0, "z": 279.7 },
+        "rotation": { "x": 0, "y": 80, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "conzano",
+      "address": "TorreA",
+      "label": "Conzano",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 170, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/conzanoNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 144.8, "y": 0.0, "z": -6.7 },
+        "rotation": { "x": 0, "y": 220, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "cuccaro",
+      "address": "TorreA",
+      "label": "Cuccaro",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 160, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/cuccaroNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 145, "y": 0.0, "z": -72.2 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "frassinello",
+      "address": "TorreA",
+      "label": "Frassinello",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 190, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/frassinelloNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 36.4, "y": 0.0, "z": 20.5 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "frassineto_po",
+      "address": "TorreA",
+      "label": "Frassineto",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 190, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/frassinetoNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 265.3, "y": 0.0, "z": 249.8 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "fubine",
+      "address": "TorreA",
+      "label": "Fubine",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 140, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/fubineNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 91.2, "y": 0.0, "z": -126.4 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "gabiano",
+      "address": "TorreA",
+      "label": "Gabiano",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 160, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/gabianoNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": -270.2, "y": 0.0, "z": 304.1 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "giarole",
+      "address": "TorreA",
+      "label": "Giarole",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 140, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/giaroleNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 315.8, "y": 0.0, "z": 86 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "lignano",
+      "address": "TorreA",
+      "label": "Lignano",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 160, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/lignanoNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 73.5, "y": 0.0, "z": 32.8 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "lu",
+      "address": "TorreA",
+      "label": "Lu",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 90, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/luNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 186.2, "y": 0.0, "z": -48.7 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "mirabello",
+      "address": "TorreA",
+      "label": "Mirabello",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 170, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/mirabelloNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 278.6, "y": 0.0, "z": 47.5 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "mombello",
+      "address": "TorreA",
+      "label": "Mombello",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 180, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/mombelloNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": -178.9, "y": 0.0, "z": 243.9 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "montemagno",
+      "address": "TorreA",
+      "label": "Montemagno",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 210, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/montemagnoNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": -62.1, "y": 0.0, "z": -88.9 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "morano",
+      "address": "TorreA",
+      "label": "Morano",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 140, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/moranoNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 0, "y": 0.0, "z": 312.6 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "murisengo",
+      "address": "MuraCastello",
+      "label": "Murisengo",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 180, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/murisengoNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": -351.9, "y": 0.0, "z": 138.3 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 1.5, "y": 1.5, "z": 1.5 }
+      }
+    },
+	{
+      "id": "occimiano",
+      "address": "TorreA",
+      "label": "Occimiano",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 185, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/occimianoNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 221.4, "y": 0.0, "z": 85.3 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "odalengo_grande",
+      "address": "TorreA",
+      "label": "Odalengo Grande",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 270, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/odalengoGNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": -309.2, "y": 0.6, "z": 191.7 },
+        "rotation": { "x": 0, "y": -50, "z": 0 },
+        "scale":    { "x": 0.5, "y": 0.5, "z": 0.5 }
+      }
+    },
+	{
+      "id": "odalengo_piccolo",
+      "address": "TorreA",
+      "label": "Odalengo Piccolo",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 270, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/odalengoPNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": -243.6, "y": 0.6, "z": 107.6 },
+        "rotation": { "x": 0, "y": -50, "z": 0 },
+        "scale":    { "x": 0.5, "y": 0.5, "z": 0.5 }
+      }
+    },
+	{
+      "id": "olivola",
+      "address": "TorreA",
+      "label": "Olivola",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 150, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/olivolaNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 3.9, "y": 0.0, "z": 31 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "ozzano",
+      "address": "TorreA",
+      "label": "Ozzano",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 150, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/ozzanoNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 18.4, "y": 0.0, "z": 178.1 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "penango",
+      "address": "TorreA",
+      "label": "Penango",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 160, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/penangoNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": -178.1, "y": 0.0, "z": 19.8 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "pessine",
+      "address": "TorreC",
+      "label": "Pessine",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 160, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/pessineNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": -266, "y": 0.0, "z": 130.7 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "pobietto",
+      "address": "TorreA",
+      "label": "Pobietto",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 150, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/pobiettoNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": -88, "y": 0.0, "z": 328.6 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "refrancore",
+      "address": "TorreA",
+      "label": "Refrancore",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 190, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/refrancoreNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": -35.6, "y": 0.0, "z": -188.6 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "roncaglia",
+      "address": "TorreA",
+      "label": "Roncaglia",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 170, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/roncagliaNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 128, "y": 0.0, "z": 57.2 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "rosignano",
+      "address": "TorreA",
+      "label": "Rosignano",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 190, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/rosignanoNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 53.9, "y": 0.0, "z": 128.3 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "sala",
+      "address": "TorreA",
+      "label": "Sala",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 110, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/salaNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": -12, "y": 0.0, "z": 117.8 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "sangiorgio",
+      "address": "TorreA",
+      "label": "San Giorgio",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 200, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/sanGiorgioNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 75.2, "y": 0.0, "z": 188.5 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "sansalvatore",
+      "address": "TorreA",
+      "label": "San Salvatore",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 220, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/sanSalvatoreNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 317.9, "y": 0.0, "z": -66.2 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "terruggia",
+      "address": "TorreA",
+      "label": "Terruggia",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 170, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/terruggiaNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 121.2, "y": 0.0, "z": 133.8 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "ticineto",
+      "address": "TorreA",
+      "label": "Ticineto",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 160, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/ticinetoNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 300.3, "y": 0.0, "z": 164 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "treville",
+      "address": "TorreA",
+      "label": "Treville",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 150, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/trevilleNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": -6.2, "y": 0.0, "z": 163.7 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "trino",
+      "address": "TorreA",
+      "label": "Trino",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 110, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/trinoNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": -104.2, "y": 0.0, "z": 380.1},
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "valenza",
+      "address": "TorreA",
+      "label": "Valenza",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 150, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/valenzaNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 439.3, "y": 0.0, "z": -16.3 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "valmacca",
+      "address": "TorreA",
+      "label": "Valmacca",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 170, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/valmaccaNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 341.6, "y": 0.0, "z": 171.3 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "vignale",
+      "address": "TorreA",
+      "label": "Vignale",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 155, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/vignaleNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 48.4, "y": 0.0, "z": -27.4 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    },
+	{
+      "id": "villanova",
+      "address": "TorreA",
+      "label": "Villanova",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 170, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns2/villanovaNewsV2"
+      },
+
+      "transform": {
+        "position": { "x": 180.5, "y": 0.0, "z": 351.6 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+      }
+    }
+  ],
+  "entities": [
+  {
+     "id": "mercante_01",
+	 "type": "npc",
+     "address": "Mercante_01",
+     "label": "Mercante itinerante",
+     "source": "local",
+     "critical": false,
+	 
+     "spawnNear": {
+       "cityId": "Casale",
+       "offset": { "x": -21, "y": 0, "z": 3 }
+     },
+	 
+     "lifecycle": {
+       "spawn": "onWorldReady",
+       "despawn": "onEventEnd"
+     },
+	 
+     "ui": {
+       "hasButton": true,
+       "label": "Mercante",
+       "buttonSize": { "w": 180, "h": 40 }
+     },
+	 
+     "event": {
+       "id": "mercante_trade",
+       "scene": "MercanteScene",
+       "config": "events/mercante_trade.json"
+     },
+	 
+     "transform": {
+       "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
+       "rotation": { "x": 0, "y": 90, "z": 0 },
+       "scale": { "x": 1.5, "y": 1.5, "z": 1.5 }
+     }
+   },
+   {
+     "id": "mercante_02",
+	 "type": "npc",
+     "address": "Mercante_02",
+     "label": "Mercante itinerante",
+     "source": "local",
+     "critical": false,
+	 
+     "spawnNear": {
+       "cityId": "Chivasso",
+       "offset": { "x": -25, "y": 0, "z": -2 }
+     },
+	 
+     "lifecycle": {
+       "spawn": "onWorldReady",
+       "despawn": "onEventEnd"
+     },
+	 
+     "ui": {
+       "hasButton": true,
+       "label": "Mercante",
+       "buttonSize": { "w": 180, "h": 40 }
+     },
+	 
+     "event": {
+       "id": "mercante_trade",
+       "scene": "MercanteScene",
+       "config": "events/mercante_trade.json"
+     },
+	 
+     "transform": {
+       "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
+       "rotation": { "x": 0, "y": 90, "z": 0 },
+       "scale": { "x": 1.5, "y": 1.5, "z": 1.5 }
+     }
+   },
+   {
+     "id": "mercante_02",
+	 "type": "npc",
+     "address": "Mercante_02",
+     "label": "Mercante itinerante",
+     "source": "local",
+     "critical": false,
+	 
+     "spawnNear": {
+       "cityId": "Ticineto",
+       "offset": { "x": 17, "y": 0, "z": 2 }
+     },
+	 
+     "lifecycle": {
+       "spawn": "onWorldReady",
+       "despawn": "onEventEnd"
+     },
+	 
+     "ui": {
+       "hasButton": true,
+       "label": "Mercante",
+       "buttonSize": { "w": 180, "h": 40 }
+     },
+	 
+     "event": {
+       "id": "mercante_trade",
+       "scene": "MercanteScene",
+       "config": "events/mercante_trade.json"
+     },
+	 
+     "transform": {
+       "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
+       "rotation": { "x": 0, "y": 30, "z": 0 },
+       "scale": { "x": 1.5, "y": 1.5, "z": 1.5 }
+     }
+   },
+   {
+     "id": "viandante",
+	 "type": "npc",
+     "address": "CavalloMarrone",
+     "label": "Viandante a Cavallo",
+	 "source": "local",
+     "critical": false,
+	 
+     "spawnNear": {
+       "cityId": "Ticineto",
+       "offset": { "x": 20, "y": 0.0, "z": 10 }
+     },
+	 
+     "lifecycle": {
+       "spawn": "onWorldReady",
+       "despawn": "onEventEnd"
+     },
+	 
+     "ui": {
+       "hasButton": true,
+       "label": "Viandante",
+       "buttonSize": { "w": 200, "h": 40 }
+     },
+	 
+     "event": {
+       "id": "viandante_trade",
+       "scene": "ViandanteScene",
+       "config": "events/viandante_trade.json"
+     },
+	 
+     "transform": {
+       "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
+       "rotation": { "x": 0, "y": 145, "z": 0 },
+       "scale": { "x": 1.5, "y": 1.5, "z": 1.5 }
+     }
+   },
+   {
+     "id": "viandante",
+	 "type": "npc",
+     "address": "CavalloMarrone",
+     "label": "Viandante a Cavallo",
+	 "source": "local",
+     "critical": false,
+	 
+     "spawnNear": {
+       "cityId": "Conzano",
+       "offset": { "x": 30, "y": 0.0, "z": 5 }
+     },
+	 
+     "lifecycle": {
+       "spawn": "onWorldReady",
+       "despawn": "onEventEnd"
+     },
+	 
+     "ui": {
+       "hasButton": true,
+       "label": "Viandante",
+       "buttonSize": { "w": 200, "h": 40 }
+     },
+	 
+     "event": {
+       "id": "viandante_trade",
+       "scene": "ViandanteScene",
+       "config": "events/viandante_trade.json"
+     },
+	 
+     "transform": {
+       "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
+       "rotation": { "x": 0, "y": 90, "z": 0 },
+       "scale": { "x": 1.5, "y": 1.5, "z": 1.5 }
+     }
+   },
+   {
+     "id": "viandante",
+	 "type": "npc",
+     "address": "CavalloNero",
+     "label": "Viandante a Cavallo",
+	 "source": "local",
+     "critical": false,
+	 
+     "spawnNear": {
+       "cityId": "Odalengo Grande",
+       "offset": { "x": 10, "y": 0.0, "z": 0.0 }
+     },
+	 
+     "lifecycle": {
+       "spawn": "onWorldReady",
+       "despawn": "onEventEnd"
+     },
+	 
+     "ui": {
+       "hasButton": true,
+       "label": "Viandante",
+       "buttonSize": { "w": 200, "h": 40 }
+     },
+	 
+     "event": {
+       "id": "viandante_trade",
+       "scene": "ViandanteScene",
+       "config": "events/viandante_trade.json"
+     },
+	 
+     "transform": {
+       "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
+       "rotation": { "x": 0, "y": 130, "z": 0 },
+       "scale": { "x": 1.5, "y": 1.5, "z": 1.5 }
+     }
+   },
+   {
+     "id": "viandante",
+	 "type": "npc",
+     "address": "CavalloNero",
+     "label": "Viandante a Cavallo",
+	 "source": "local",
+     "critical": false,
+	 
+     "spawnNear": {
+       "cityId": "Odalengo Piccolo",
+       "offset": { "x": -10, "y": 0.0, "z": 0 }
+     },
+	 
+     "lifecycle": {
+       "spawn": "onWorldReady",
+       "despawn": "onEventEnd"
+     },
+	 
+     "ui": {
+       "hasButton": true,
+       "label": "Viandante",
+       "buttonSize": { "w": 200, "h": 40 }
+     },
+	 
+     "event": {
+       "id": "viandante_trade",
+       "scene": "ViandanteScene",
+       "config": "events/viandante_trade.json"
+     },
+	 
+     "transform": {
+       "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
+       "rotation": { "x": 0, "y": 90, "z": 0 },
+       "scale": { "x": 1.5, "y": 1.5, "z": 1.5 }
+     }
+   }
+  ]
+}
