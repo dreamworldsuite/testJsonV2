@@ -29,7 +29,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/casaleNewsV2"
+        "newsFeed": "townsV2/casaleNewsV2"
       },
 
       "transform": {
@@ -52,7 +52,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/chivassoNewsV2"
+        "newsFeed": "townsV2/chivassoNewsV2"
       },
 
       "transform": {
@@ -75,7 +75,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/moncalvoNewsV2"
+        "newsFeed": "townsV2/moncalvoNewsV2"
       },
 
       "transform": {
@@ -98,7 +98,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/pontesturaNewsV2"
+        "newsFeed": "townsV2/pontesturaNewsV2"
       },
 
       "transform": {
@@ -121,7 +121,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/acquiNewsV2"
+        "newsFeed": "townsV2/acquiNewsV2"
       },
 
       "transform": {
@@ -144,7 +144,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/alfianoNewsV2"
+        "newsFeed": "townsV2/alfianoNewsV2"
       },
 
       "transform": {
@@ -167,7 +167,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/altavillaNewsV2"
+        "newsFeed": "townsV2/altavillaNewsV2"
       },
 
       "transform": {
@@ -190,7 +190,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/balzolaNewsV2"
+        "newsFeed": "townsV2/balzolaNewsV2"
       },
 
       "transform": {
@@ -213,7 +213,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/bassignanaNewsV2"
+        "newsFeed": "townsV2/bassignanaNewsV2"
       },
 
       "transform": {
@@ -236,7 +236,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/borgoSMNewsV2"
+        "newsFeed": "townsV2/borgoSMNewsV2"
       },
 
       "transform": {
@@ -259,7 +259,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/bozzoleNewsV2"
+        "newsFeed": "townsV2/bozzoleNewsV2"
       },
 
       "transform": {
@@ -282,7 +282,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/callianoNewsV2"
+        "newsFeed": "townsV2/callianoNewsV2"
       },
 
       "transform": {
@@ -305,7 +305,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/camagnaNewsV2"
+        "newsFeed": "townsV2/camagnaNewsV2"
       },
 
       "transform": {
@@ -328,7 +328,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/caminoNewsV2"
+        "newsFeed": "townsV2/caminoNewsV2"
       },
 
       "transform": {
@@ -351,7 +351,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/casorzoNewsV2"
+        "newsFeed": "townsV2/casorzoNewsV2"
       },
 
       "transform": {
@@ -374,7 +374,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/castagnoleNewsV2"
+        "newsFeed": "townsV2/castagnoleNewsV2"
       },
 
       "transform": {
@@ -397,7 +397,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/castellettoMerliNewsV2"
+        "newsFeed": "townsV2/castellettoMerliNewsV2"
       },
 
       "transform": {
@@ -420,7 +420,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/castellettoMonfNewsV2"
+        "newsFeed": "townsV2/castellettoMonfNewsV2"
       },
 
       "transform": {
@@ -443,7 +443,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/castelAnnoneNewsV2"
+        "newsFeed": "townsV2/castelAnnoneNewsV2"
       },
 
       "transform": {
@@ -466,7 +466,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/cellaMonteNewsV2"
+        "newsFeed": "townsV2/cellaMonteNewsV2"
       },
 
       "transform": {
@@ -489,7 +489,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/ceresetoNewsV2"
+        "newsFeed": "townsV2/ceresetoNewsV2"
       },
 
       "transform": {
@@ -512,7 +512,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/cerrinaNewsV2"
+        "newsFeed": "townsV2/cerrinaNewsV2"
       },
 
       "transform": {
@@ -535,7 +535,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/cerroTanaroNewsV2"
+        "newsFeed": "townsV2/cerroTanaroNewsV2"
       },
 
       "transform": {
@@ -558,7 +558,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/conioloNewsV2"
+        "newsFeed": "townsV2/conioloNewsV2"
       },
 
       "transform": {
@@ -581,7 +581,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/conzanoNewsV2"
+        "newsFeed": "townsV2/conzanoNewsV2"
       },
 
       "transform": {
@@ -604,7 +604,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/cuccaroNewsV2"
+        "newsFeed": "townsV2/cuccaroNewsV2"
       },
 
       "transform": {
@@ -627,7 +627,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/frassinelloNewsV2"
+        "newsFeed": "townsV2/frassinelloNewsV2"
       },
 
       "transform": {
@@ -650,7 +650,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/frassinetoNewsV2"
+        "newsFeed": "townsV2/frassinetoNewsV2"
       },
 
       "transform": {
@@ -673,7 +673,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/fubineNewsV2"
+        "newsFeed": "townsV2/fubineNewsV2"
       },
 
       "transform": {
@@ -696,7 +696,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/gabianoNewsV2"
+        "newsFeed": "townsV2/gabianoNewsV2"
       },
 
       "transform": {
@@ -719,7 +719,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/giaroleNewsV2"
+        "newsFeed": "townsV2/giaroleNewsV2"
       },
 
       "transform": {
@@ -742,7 +742,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/lignanoNewsV2"
+        "newsFeed": "townsV2/lignanoNewsV2"
       },
 
       "transform": {
@@ -765,7 +765,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/luNewsV2"
+        "newsFeed": "townsV2/luNewsV2"
       },
 
       "transform": {
@@ -788,7 +788,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/mirabelloNewsV2"
+        "newsFeed": "townsV2/mirabelloNewsV2"
       },
 
       "transform": {
@@ -811,7 +811,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/mombelloNewsV2"
+        "newsFeed": "townsV2/mombelloNewsV2"
       },
 
       "transform": {
@@ -834,7 +834,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/montemagnoNewsV2"
+        "newsFeed": "townsV2/montemagnoNewsV2"
       },
 
       "transform": {
@@ -857,7 +857,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/moranoNewsV2"
+        "newsFeed": "townsV2/moranoNewsV2"
       },
 
       "transform": {
@@ -880,7 +880,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/murisengoNewsV2"
+        "newsFeed": "townsV2/murisengoNewsV2"
       },
 
       "transform": {
@@ -903,7 +903,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/occimianoNewsV2"
+        "newsFeed": "townsV2/occimianoNewsV2"
       },
 
       "transform": {
@@ -926,13 +926,13 @@
       },
 
       "content": {
-        "newsFeed": "towns2/odalengoGNewsV2"
+        "newsFeed": "townsV2/odalengoGNewsV2"
       },
 
       "transform": {
         "position": { "x": -309.2, "y": 0.6, "z": 191.7 },
         "rotation": { "x": 0, "y": -50, "z": 0 },
-        "scale":    { "x": 0.5, "y": 0.5, "z": 0.5 }
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
       }
     },
 	{
@@ -949,13 +949,13 @@
       },
 
       "content": {
-        "newsFeed": "towns2/odalengoPNewsV2"
+        "newsFeed": "townsV2/odalengoPNewsV2"
       },
 
       "transform": {
         "position": { "x": -243.6, "y": 0.6, "z": 107.6 },
         "rotation": { "x": 0, "y": -50, "z": 0 },
-        "scale":    { "x": 0.5, "y": 0.5, "z": 0.5 }
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
       }
     },
 	{
@@ -972,7 +972,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/olivolaNewsV2"
+        "newsFeed": "townsV2/olivolaNewsV2"
       },
 
       "transform": {
@@ -995,7 +995,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/ozzanoNewsV2"
+        "newsFeed": "townsV2/ozzanoNewsV2"
       },
 
       "transform": {
@@ -1018,7 +1018,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/penangoNewsV2"
+        "newsFeed": "townsV2/penangoNewsV2"
       },
 
       "transform": {
@@ -1041,7 +1041,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/pessineNewsV2"
+        "newsFeed": "townsV2/pessineNewsV2"
       },
 
       "transform": {
@@ -1064,7 +1064,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/pobiettoNewsV2"
+        "newsFeed": "townsV2/pobiettoNewsV2"
       },
 
       "transform": {
@@ -1087,7 +1087,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/refrancoreNewsV2"
+        "newsFeed": "townsV2/refrancoreNewsV2"
       },
 
       "transform": {
@@ -1110,7 +1110,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/roncagliaNewsV2"
+        "newsFeed": "townsV2/roncagliaNewsV2"
       },
 
       "transform": {
@@ -1133,7 +1133,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/rosignanoNewsV2"
+        "newsFeed": "townsV2/rosignanoNewsV2"
       },
 
       "transform": {
@@ -1156,7 +1156,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/salaNewsV2"
+        "newsFeed": "townsV2/salaNewsV2"
       },
 
       "transform": {
@@ -1179,7 +1179,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/sanGiorgioNewsV2"
+        "newsFeed": "townsV2/sanGiorgioNewsV2"
       },
 
       "transform": {
@@ -1202,7 +1202,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/sanSalvatoreNewsV2"
+        "newsFeed": "townsV2/sanSalvatoreNewsV2"
       },
 
       "transform": {
@@ -1225,7 +1225,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/terruggiaNewsV2"
+        "newsFeed": "townsV2/terruggiaNewsV2"
       },
 
       "transform": {
@@ -1248,7 +1248,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/ticinetoNewsV2"
+        "newsFeed": "townsV2/ticinetoNewsV2"
       },
 
       "transform": {
@@ -1271,7 +1271,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/trevilleNewsV2"
+        "newsFeed": "townsV2/trevilleNewsV2"
       },
 
       "transform": {
@@ -1294,7 +1294,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/trinoNewsV2"
+        "newsFeed": "townsV2/trinoNewsV2"
       },
 
       "transform": {
@@ -1317,7 +1317,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/valenzaNewsV2"
+        "newsFeed": "townsV2/valenzaNewsV2"
       },
 
       "transform": {
@@ -1340,7 +1340,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/valmaccaNewsV2"
+        "newsFeed": "townsV2/valmaccaNewsV2"
       },
 
       "transform": {
@@ -1363,7 +1363,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/vignaleNewsV2"
+        "newsFeed": "townsV2/vignaleNewsV2"
       },
 
       "transform": {
@@ -1386,7 +1386,7 @@
       },
 
       "content": {
-        "newsFeed": "towns2/villanovaNewsV2"
+        "newsFeed": "townsV2/villanovaNewsV2"
       },
 
       "transform": {
