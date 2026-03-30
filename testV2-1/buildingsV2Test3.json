@@ -1,12 +1,12 @@
 {
   "_metaDatiJson": {
-    "nomeJson": "buildingsV2Test1",
+    "nomeJson": "buildingsV2Test3",
     "repoJson": "testJsonV2",
     "note": "Test Versione 2"
   },
   "version": 2,
   "minAppVersion": 2,
-  "generatedAt": "2026-03-18T12:00:00Z",
+  "generatedAt": "2026-03-30T12:00:00Z",
   "terrain":{
     "layer":{
       "id": "TL_Grass",
@@ -17,11 +17,11 @@
   [
     {
       "id": "casale",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Casale",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -35,16 +35,16 @@
       "transform": {
         "position": { "x": 128, "y": 0.0, "z": 254 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "chivasso",
-      "address": "TorreD",
+      "address": "Stendardo_C",
       "label": "Chivasso",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -58,16 +58,16 @@
       "transform": {
         "position": { "x": -744.2, "y": 0.0, "z": 370.5 },
         "rotation": { "x": 0, "y": 90, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":0.4, "y": 0.4, "z":0.4 }
       }
     },
 	{
       "id": "moncalvo",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Moncalvo",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -81,16 +81,16 @@
       "transform": {
         "position": { "x": -151.7, "y": 0.0, "z": 64.5 },
         "rotation": { "x": 0, "y": 270, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "pontestura",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Pontestura",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -104,16 +104,16 @@
       "transform": {
         "position": { "x": -48.1, "y": 0.0, "z": 270.3 },
         "rotation": { "x": 0, "y": 180, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "acqui",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Acqui",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -127,16 +127,16 @@
       "transform": {
         "position": { "x": 174.2, "y": 0.0, "z": -776.4 },
         "rotation": { "x": 0, "y": 20, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "alfiano_natta",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Alfiano",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -150,16 +150,16 @@
       "transform": {
         "position": { "x": -246.9, "y": 0.0, "z": 58.3 },
         "rotation": { "x": 0, "y": 270, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "altavilla_monferrato",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Altavilla",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -173,16 +173,16 @@
       "transform": {
         "position": { "x": 16.1, "y": 0.0, "z": -65.6 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "balzola",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Balzola",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -196,16 +196,16 @@
       "transform": {
         "position": { "x": 53.4, "y": 0.0, "z": 360 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "bassignana",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Bassignana",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -219,16 +219,16 @@
       "transform": {
         "position": { "x": 579, "y": 0.0, "z": -44.9 },
         "rotation": { "x": 0, "y": 180, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "borgo_san_martino",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Borgo San Martino",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -242,16 +242,16 @@
       "transform": {
         "position": { "x": 248.8, "y": 0.0, "z": 145.3 },
         "rotation": { "x": 0, "y": 160, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "bozzole",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Bozzole",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -265,16 +265,16 @@
       "transform": {
         "position": { "x": 366, "y": 0.0, "z": 101.6 },
         "rotation": { "x": 0, "y": 250, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "calliano",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Calliano",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -288,16 +288,16 @@
       "transform": {
         "position": { "x": -169.6, "y": 0.0, "z": -34.2 },
         "rotation": { "x": 0, "y": 120, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "camagna_monferrato",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Camagna",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -311,16 +311,16 @@
       "transform": {
         "position": { "x": 102.3, "y": 0.0, "z": -11.1 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "camino",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Camino",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -334,16 +334,16 @@
       "transform": {
         "position": { "x": -131.8, "y": 0.0, "z": 308.3 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "casorzo",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Casorzo",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -357,16 +357,16 @@
       "transform": {
         "position": { "x": -48.2, "y": 0.0, "z": 0.2 },
         "rotation": { "x": 0, "y": 70, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "castagnole",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Castagnole",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -380,16 +380,16 @@
       "transform": {
         "position": { "x": -86.1, "y": 0.0, "z": -140.4 },
         "rotation": { "x": 0, "y": 45, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "castelletto_merli",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Castelletto de' Merli",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -403,16 +403,16 @@
       "transform": {
         "position": { "x": -209.5, "y": 0.0, "z": 144.6 },
         "rotation": { "x": 0, "y": 30, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "castelletto_monferrato",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Castelletto",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -426,7 +426,7 @@
       "transform": {
         "position": { "x": 311.3, "y": 0.0, "z": -95.3 },
         "rotation": { "x": 0, "y": 140, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
@@ -449,16 +449,16 @@
       "transform": {
         "position": { "x": -77.8, "y": 0.0, "z": -320.6 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":0.3, "y": 0.3, "z":0.3 }
       }
     },
 	{
       "id": "cella_monte",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Cella",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -472,16 +472,16 @@
       "transform": {
         "position": { "x": 41.4, "y": 0.0, "z": 113.3 },
         "rotation": { "x": 0, "y": 160, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "cereseto",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Cereseto",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -495,16 +495,16 @@
       "transform": {
         "position": { "x": -74.3, "y": 0.0, "z": 142.1 },
         "rotation": { "x": 0, "y": 10, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "cerrina",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Cerrina",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -518,16 +518,16 @@
       "transform": {
         "position": { "x": -235.3, "y": 0.0, "z": 216.5 },
         "rotation": { "x": 0, "y": 140, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "cerro_tanaro",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Cerro",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -541,16 +541,16 @@
       "transform": {
         "position": { "x": -1.4, "y": 0.0, "z": -340.8 },
         "rotation": { "x": 0, "y": 65, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "coniolo",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Coniolo",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -564,16 +564,16 @@
       "transform": {
         "position": { "x": 8, "y": 0.0, "z": 279.7 },
         "rotation": { "x": 0, "y": 80, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "conzano",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Conzano",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -587,16 +587,16 @@
       "transform": {
         "position": { "x": 144.8, "y": 0.0, "z": -6.7 },
         "rotation": { "x": 0, "y": 220, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "cuccaro",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Cuccaro",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -610,16 +610,16 @@
       "transform": {
         "position": { "x": 145, "y": 0.0, "z": -72.2 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "frassinello",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Frassinello",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -633,16 +633,16 @@
       "transform": {
         "position": { "x": 36.4, "y": 0.0, "z": 20.5 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "frassineto_po",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Frassineto",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -656,16 +656,16 @@
       "transform": {
         "position": { "x": 265.3, "y": 0.0, "z": 249.8 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "fubine",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Fubine",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -679,16 +679,16 @@
       "transform": {
         "position": { "x": 91.2, "y": 0.0, "z": -126.4 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "gabiano",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Gabiano",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -702,16 +702,16 @@
       "transform": {
         "position": { "x": -270.2, "y": 0.0, "z": 304.1 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "giarole",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Giarole",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -725,16 +725,16 @@
       "transform": {
         "position": { "x": 315.8, "y": 0.0, "z": 86 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "lignano",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Lignano",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -748,16 +748,16 @@
       "transform": {
         "position": { "x": 73.5, "y": 0.0, "z": 32.8 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "lu",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Lu",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -771,16 +771,16 @@
       "transform": {
         "position": { "x": 186.2, "y": 0.0, "z": -48.7 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "mirabello",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Mirabello",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -794,16 +794,16 @@
       "transform": {
         "position": { "x": 278.6, "y": 0.0, "z": 47.5 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "mombello",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Mombello",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -817,16 +817,16 @@
       "transform": {
         "position": { "x": -178.9, "y": 0.0, "z": 243.9 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "montemagno",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Montemagno",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -840,16 +840,16 @@
       "transform": {
         "position": { "x": -62.1, "y": 0.0, "z": -88.9 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "morano",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Morano",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -863,16 +863,16 @@
       "transform": {
         "position": { "x": 0, "y": 0.0, "z": 312.6 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "murisengo",
-      "address": "MuraCastello",
+      "address": "Stendardo_C",
       "label": "Murisengo",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -891,11 +891,11 @@
     },
 	{
       "id": "occimiano",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Occimiano",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -909,16 +909,16 @@
       "transform": {
         "position": { "x": 221.4, "y": 0.0, "z": 85.3 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "odalengo_grande",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Odalengo Grande",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -932,16 +932,16 @@
       "transform": {
         "position": { "x": -309.2, "y": 0.6, "z": 191.7 },
         "rotation": { "x": 0, "y": -50, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "odalengo_piccolo",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Odalengo Piccolo",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -955,16 +955,16 @@
       "transform": {
         "position": { "x": -243.6, "y": 0.6, "z": 107.6 },
         "rotation": { "x": 0, "y": -50, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "olivola",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Olivola",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -978,16 +978,16 @@
       "transform": {
         "position": { "x": 3.9, "y": 0.0, "z": 31 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "ozzano",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Ozzano",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -1001,16 +1001,16 @@
       "transform": {
         "position": { "x": 18.4, "y": 0.0, "z": 178.1 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "penango",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Penango",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -1024,16 +1024,16 @@
       "transform": {
         "position": { "x": -178.1, "y": 0.0, "z": 19.8 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "pessine",
-      "address": "TorreC",
+      "address": "Stendardo_C",
       "label": "Pessine",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -1047,16 +1047,16 @@
       "transform": {
         "position": { "x": -266, "y": 0.0, "z": 130.7 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "pobietto",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Pobietto",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -1070,16 +1070,16 @@
       "transform": {
         "position": { "x": -88, "y": 0.0, "z": 328.6 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "refrancore",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Refrancore",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -1093,16 +1093,16 @@
       "transform": {
         "position": { "x": -35.6, "y": 0.0, "z": -188.6 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "roncaglia",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Roncaglia",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -1116,16 +1116,16 @@
       "transform": {
         "position": { "x": 128, "y": 0.0, "z": 57.2 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "rosignano",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Rosignano",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -1139,16 +1139,16 @@
       "transform": {
         "position": { "x": 53.9, "y": 0.0, "z": 128.3 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "sala",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Sala",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -1162,16 +1162,16 @@
       "transform": {
         "position": { "x": -12, "y": 0.0, "z": 117.8 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "sangiorgio",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "San Giorgio",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -1185,16 +1185,16 @@
       "transform": {
         "position": { "x": 75.2, "y": 0.0, "z": 188.5 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "sansalvatore",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "San Salvatore",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -1208,16 +1208,16 @@
       "transform": {
         "position": { "x": 317.9, "y": 0.0, "z": -66.2 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "terruggia",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Terruggia",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -1231,16 +1231,16 @@
       "transform": {
         "position": { "x": 121.2, "y": 0.0, "z": 133.8 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "ticineto",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Ticineto",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -1254,16 +1254,16 @@
       "transform": {
         "position": { "x": 300.3, "y": 0.0, "z": 164 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "treville",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Treville",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -1277,16 +1277,16 @@
       "transform": {
         "position": { "x": -6.2, "y": 0.0, "z": 163.7 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "trino",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Trino",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -1300,16 +1300,16 @@
       "transform": {
         "position": { "x": -104.2, "y": 0.0, "z": 380.1},
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "valenza",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Valenza",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -1323,16 +1323,16 @@
       "transform": {
         "position": { "x": 439.3, "y": 0.0, "z": -16.3 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "valmacca",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Valmacca",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -1346,16 +1346,16 @@
       "transform": {
         "position": { "x": 341.6, "y": 0.0, "z": 171.3 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "vignale",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Vignale",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -1369,16 +1369,16 @@
       "transform": {
         "position": { "x": 48.4, "y": 0.0, "z": -27.4 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     },
 	{
       "id": "villanova",
-      "address": "TorreA",
+      "address": "Stendardo_C",
       "label": "Villanova",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -1392,7 +1392,7 @@
       "transform": {
         "position": { "x": 180.5, "y": 0.0, "z": 351.6 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x":1.5, "y": 1.5, "z":1.5 }
       }
     }
   ],
@@ -1430,7 +1430,7 @@
      "transform": {
        "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
        "rotation": { "x": 0, "y": 90, "z": 0 },
-       "scale": { "x": 1.5, "y": 1.5, "z": 1.5 }
+       "scale": { "x": 1, "y": 1, "z": 1 }
      }
    },
    {
@@ -1466,7 +1466,7 @@
      "transform": {
        "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
        "rotation": { "x": 0, "y": 90, "z": 0 },
-       "scale": { "x": 1.5, "y": 1.5, "z": 1.5 }
+       "scale": { "x": 1, "y": 1, "z": 1 }
      }
    },
    {
@@ -1502,7 +1502,7 @@
      "transform": {
        "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
        "rotation": { "x": 0, "y": 30, "z": 0 },
-       "scale": { "x": 1.5, "y": 1.5, "z": 1.5 }
+       "scale": { "x": 1, "y": 1, "z": 1 }
      }
    },
    {
@@ -1538,7 +1538,7 @@
      "transform": {
        "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
        "rotation": { "x": 0, "y": 145, "z": 0 },
-       "scale": { "x": 1.5, "y": 1.5, "z": 1.5 }
+       "scale": { "x": 1, "y": 1, "z": 1 }
      }
    },
    {
@@ -1574,7 +1574,7 @@
      "transform": {
        "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
        "rotation": { "x": 0, "y": 90, "z": 0 },
-       "scale": { "x": 1.5, "y": 1.5, "z": 1.5 }
+       "scale": { "x": 1, "y": 1, "z": 1 }
      }
    },
    {
@@ -1610,7 +1610,7 @@
      "transform": {
        "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
        "rotation": { "x": 0, "y": 130, "z": 0 },
-       "scale": { "x": 1.5, "y": 1.5, "z": 1.5 }
+       "scale": { "x": 1, "y": 1, "z": 1 }
      }
    },
    {
@@ -1646,7 +1646,7 @@
      "transform": {
        "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
        "rotation": { "x": 0, "y": 90, "z": 0 },
-       "scale": { "x": 1.5, "y": 1.5, "z": 1.5 }
+       "scale": { "x": 1, "y": 1, "z": 1 }
      }
    }
   ]
